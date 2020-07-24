@@ -4,4 +4,7 @@ rice
 burger
 chicken fry
 
+beans
+pizza
+
 Thank You!!
